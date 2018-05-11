@@ -1,5 +1,7 @@
 # purescript-invertible-syntax
 
+[![Build Status](https://travis-ci.com/paulyoung/purescript-invertible-syntax.svg?branch=master)](https://travis-ci.com/paulyoung/purescript-invertible-syntax)
+
 A PureScript implementation of invertible syntax descriptions, from the paper [Invertible Syntax Descriptions: Unifying Parsing and Pretty Printing (Rendel and Ostermann 2010)](http://www.informatik.uni-marburg.de/~rendel/unparse/rendel10invertible.pdf).
 
 ## Licensing
